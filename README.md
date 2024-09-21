@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Vinny
 - 👀 I’m a Student in NCI College Ireland.
-- 🌱 I’m currently learning Java, HTML, CSS, XML, DBMS, Computer Industry.
 
 
 <!---
