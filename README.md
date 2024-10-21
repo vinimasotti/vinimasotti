@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vinny
-- 👀 I’m a Student in NCI College Ireland.
+- 👀 I’m a Student at NCI College Ireland.
 
 
 <!---
