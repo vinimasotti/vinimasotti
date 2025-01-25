@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Vinny
-- 👀 I’m a computer science student at NCI College Ireland.
+- 👀 Computer Science Student - Final Year
+- 
+- Dublin - Ireland
 
 
 <!---
