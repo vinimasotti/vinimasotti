@@ -3,7 +3,6 @@
 -
 - Dublin - National College of Ireland -
 - Currently developing a full stack application with administration tools for a start up of a music storage portal. Developed in RUBY focused on security features and deployment -
-- 
 - SAVE THE DATE 28/05/25 - Offical Launch - 
 -
 - 2024 -
@@ -24,6 +23,8 @@
 - Full application in Java with GUI - Data structure algorithms -
 - https://github.com/vinimasotti/JavaGUI -
 -
+- And many others including Python with Machine Learning, Software Testing, Network Infrastructure, Operating Systems
+- - 
 <!---
 vinimasotti/vinimasotti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
