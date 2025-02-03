@@ -24,7 +24,7 @@
 - https://github.com/vinimasotti/JavaGUI -
 -
 - And many others including Python with Machine Learning, Software Testing, Network Infrastructure, Operating Systems
-- - 
+- 
 <!---
 vinimasotti/vinimasotti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
