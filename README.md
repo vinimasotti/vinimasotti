@@ -23,7 +23,7 @@
 - Full application in Java with GUI - Data structure algorithms -
 - https://github.com/vinimasotti/JavaGUI -
 -
-- And many others including Python with Machine Learning, Software Testing, Network Infrastructure, Operating Systems
+- And many others including Python with Machine Learning, Software Testing, Network Infrastructure, Operating Systems, Agile Aprroach, Secure Application Development, System architecture ..... 
 - 
 <!---
 vinimasotti/vinimasotti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
