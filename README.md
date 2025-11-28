@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Vinny -
-- 👀 I am a Computer Science Student -
--
+- 
 - Dublin - National College of Ireland -
-- Currently developing a full stack application with administration tools for a start up of a music storage portal. Developed in RUBY focused on security features and deployment -
-- SAVE THE DATE 28/05/25 - Offical Launch - 
+- 2025 -
+- 
 -
 - 2024 -
 - Full cloud based application on Ruby and JSON -
