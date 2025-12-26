@@ -1,5 +1,9 @@
 - 👋 Hi, I’m Vinny -
-- 
+-
+-
+- 2026
+- In Progress....-
+-
 - Dublin - National College of Ireland -
 - 2025 -
 - 
